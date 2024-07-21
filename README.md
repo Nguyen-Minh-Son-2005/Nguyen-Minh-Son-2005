@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me : my email
-- 😄 Pronouns: Happiness is nothing but effort
+- 😄 Pronouns: I
 - ⚡ Fun fact: sometimes i play genshin impact
 
 <!---
