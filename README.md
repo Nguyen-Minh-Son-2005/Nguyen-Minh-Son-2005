@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me : my email
 - 😄 Pronouns: I
-- ⚡ Fun fact: sometimes i play genshin impact
+- ⚡ Fun fact: make pote 
 
 <!---
 Nguyen-Minh-Son-2005/Nguyen-Minh-Son-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
